@@ -1,0 +1,13 @@
+{
+    "name":  "claude-mod-blast-radius-ps",
+    "owner":  {
+                  "name":  "Hasan"
+              },
+    "plugins":  [
+                    {
+                        "description":  "Holds risky Bash and PowerShell commands (recursive deletes, git clean/reset/force-push, migrations) and shows what they would change, with Proceed and Cancel. Based on Anthropic\u0027s Blast Radius sample (Apache-2.0).",
+                        "name":  "blast-radius-ps",
+                        "source":  "./"
+                    }
+                ]
+}

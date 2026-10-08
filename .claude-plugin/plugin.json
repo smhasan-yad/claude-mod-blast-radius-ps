@@ -1,0 +1,6 @@
+{
+  "name": "blast-radius-ps",
+  "version": "0.3.0",
+  "description": "Holds risky Bash and PowerShell commands (recursive deletes, git clean/reset/force-push, migrations) and shows what they would change, with Proceed and Cancel. Based on Anthropic's Blast Radius sample (Apache-2.0).",
+  "license": "Apache-2.0"
+}
